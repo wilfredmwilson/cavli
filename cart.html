@@ -1,0 +1,10 @@
+if (column === 'quantity') {
+    // Create colored button based on status
+    const button = document.createElement('button');
+    button.textContent = product.status === 1 ? 'Pre Order' : 'Add Variant';
+    button.classList.add(product.status === 1 ? 'pre-order' : 'add-variant');
+    button.addEventListener('click', () => addToCart(product));
+    td.appendChild(button);
+  } else {
+    td.textContent = product[column];
+  }

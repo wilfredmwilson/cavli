@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "brand": "C42GM",
+        "name": "C42GM Product 1",
+        "image": "image/cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "Global",
+        "status": 0,
+        "eSIMCompatibility": "Yes",
+        "quantity": 0,
+        "formFactors": "M.2"
+    },
+    {
+        "id": 2,
+        "brand": "C42GM",
+        "name": "C42GM Product 2",
+        "status": 0,
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "Europe",
+        "eSIMCompatibility": "No",
+        "formFactors": "Mini PCIe"
+    },
+    {
+        "id": 3,
+        "brand": "C42GM",
+        "name": "C42GM Product 3",
+        "status": 0,
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "APAC & JAPAN",
+        "eSIMCompatibility": "No",
+        "formFactors": "LGA"
+    },
+    {
+        "id": 4,
+        "brand": "C42GM",
+        "name": "C42GM Product 4",
+        "status": 1,
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "N.AMERICA",
+        "eSIMCompatibility": "Yes",
+        "formFactors": "M.2"
+    },
+    {
+        "id": 5,
+        "brand": "C42GM",
+        "name": "C42GM Product 5",
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "S.AMERICA",
+        "eSIMCompatibility": "Yes",
+        "formFactors": "Mini PCIe"
+    },
+    {
+        "id": 6,
+        "brand": "C42GM",
+        "name": "C42GM Product 6",
+        "image": "cavli.png",
+        "status": 1,
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "AUS & NZ",
+        "eSIMCompatibility": "Yes",
+        "formFactors": "LGA"
+    },
+    {
+        "id": 7,
+        "brand": "C42GM",
+        "name": "C42GM Product 7",
+        "image": "cavli.png",
+        "quantity": 0,
+        "status": 0,
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "Global",
+        "eSIMCompatibility": "No",
+        "formFactors": "M.2"
+    },
+    {
+        "id": 8,
+        "brand": "C42GM",
+        "name": "C42GM Product 8",
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "Europe",
+        "eSIMCompatibility": "No",
+        "formFactors": "Mini PCIe"
+    },
+    {
+        "id": 9,
+        "brand": "C42GM",
+        "name": "C42GM Product 9",
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "APAC & JAPAN",
+        "eSIMCompatibility": "No",
+        "formFactors": "LGA"
+    },
+    {
+        "id": 10,
+        "brand": "C42GM",
+        "name": "C42GM Product 10",
+        "image": "cavli.png",
+        "price": "NB1/NB2, LTE-M1",
+        "regionOfTesting": "N.AMERICA",
+        "eSIMCompatibility": "Yes",
+        "formFactors": "M.2"
+    }
+]

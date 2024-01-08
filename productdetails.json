@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "brand": "C42GM",
+        "image": "cavli.png",
+        "price": "NB1/NB2,LTE-M1"
+    },
+    {
+        "id": 2,
+        "brand": "C41QS",
+        "image": "cavli.PNG",
+        "price": "NB2"
+    },
+    {
+        "id": 3,
+        "brand": "C16QS",
+        "image": "cavli.PNG",
+        "price": "LTE CAT 1.BIS"
+    },
+    {
+        "id": 4,
+        "brand": "C10QM",
+        "image": "cavli.PNG",
+        "price": "LTE CAT 1/2G"
+    },
+    {
+        "id": 5,
+        "brand": "C20QM",
+        "image": "cavli.PNG",
+        "price": "LTE CAT 4/2G"
+    },
+    {
+        "id": 6,
+        "brand": "C10GS",
+        "image": "cavli.PNG",
+        "price": "CAT 1"
+    },
+    {
+        "id": 7,
+        "brand": "CQS290",
+        "image": "cavli.PNG",
+        "price": "LTE CAT 4/2G"
+    }
+]
